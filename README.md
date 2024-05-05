@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi there 👋
+
+I'm Zhouqi Hua, a student at Tongji University, majoring in *Computer Science and Technology*.
+
+Interested in:
+- :high_brightness: Computational imaging and high dynamic range imaging
+- :tv: Super-resolution image and video transmission
+- :stars: Multimodal and T2I
+
 
 <!--
 **HuaHenry/HuaHenry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
