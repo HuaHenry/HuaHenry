@@ -3,9 +3,9 @@
 I'm Zhouqi Hua, a student at Tongji University, majoring in *Computer Science and Technology*.
 
 Interested in:
-- :high_brightness: Computational imaging and high dynamic range imaging
-- :tv: Super-resolution image and video transmission
-- :stars: Multimodal and T2I
+- :high_brightness: Computational imaging and high dynamic range (HDR)
+- :tv: Super-resolution (SR) image and video transmission
+- :stars: Multimodal and T2I / T2V
 
 
 <!--
