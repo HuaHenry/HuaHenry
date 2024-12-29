@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :mortar_board: I'm currently a prospective PhD student at **Fudan University**
-- :ledger: Joint PhD student and research intern at **openMMlab** of Shanghai Artificial Intelligence Laboratory
-- :microscope: My research interests include **Code LLM** and **MARL** (multi-agent reinforcement learning).
+- :mortar_board: **PhD** student in Computer Science, **Fudan University** (Starting September 2025).
+- :school_satchel: **B.Sc.** in Computer Science, **Tongji University** (Expected June 2025).
+- :ledger: Joint PhD student and research intern at **OpenMMLab** of Shanghai Artificial Intelligence Laboratory.
+- :microscope: Previously interested in **Computer Vision**, now focusing on **Reasoning LLM** and **MARL** (multi-agent reinforcement learning).
 
 ![Zhouqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuaHenry&show_icons=true&theme=transparent)
