@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - :mortar_board: **PhD** student in Computer Science, **Fudan University** (Starting September 2025).
-- :school_satchel: **B.Sc.** in Computer Science, **Tongji University** (Expected June 2025).
+- :school_satchel: **B.Sc.** in Computer Science, **Tongji University** (2021 - 2025).
 - :ledger: Joint PhD student and research intern at **OpenMMLab** of Shanghai Artificial Intelligence Laboratory.
 - :microscope: Previously interested in **Computer Vision**, now focusing on **Reasoning LLM** & **RL**.
 
