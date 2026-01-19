@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - :mortar_board: **PhD** student in Computer Science, **Fudan University** (Starting September 2025).
 - :school_satchel: **B.Sc.** in Computer Science, **Tongji University** (2021 - 2025).
 - :ledger: Joint PhD student and research intern at **InternLM** Group of Shanghai AI Laboratory.
-- :microscope: Previously interested in **Computer Vision**, now focusing on **Reasoning LLM**.
+- :microscope: Previously interested in **Computer Vision**, now focusing on **Reasoning LLM** & **AI4MATH**.
 
-<!-- ![Zhouqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuaHenry&show_icons=true&theme=transparent) -->
+![Zhouqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuaHenry&show_icons=true&theme=transparent)
