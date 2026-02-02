@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - :ledger: Joint PhD student and research intern at InternLM Group / OpenMMLab of Shanghai AI Laboratory.
 - :microscope: Previously interested in **Computer Vision**, now focusing on **Reasoning LLM** & **AI4MATH**.
 
-<!-- ![Zhouqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuaHenry&show_icons=true&theme=transparent) -->
+[![Zhouqi's GitHub stats](https://readme-stats-phi-ruby.vercel.app/api?username=HuaHenry)](https://github.com/anuraghazra/github-readme-stats)
